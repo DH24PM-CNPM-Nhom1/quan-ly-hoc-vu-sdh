@@ -1,12 +1,12 @@
-# quan-ly-hoc-vu-sdh
+# quan-ly-hoc-vien-sdh
 # HỆ THỐNG QUẢN LÝ HỌC VỤ SAU ĐẠI HỌC
 
 ## Thông Tin Chung
 
 - **Giảng viên hướng dẫn:** Huỳnh Phước Hải
 - **Phân hệ đảm nhận:** Quản lý Học vụ Sau đại học
-- **Organization:** DH24PM-CNPM-Nhom07
-- **Repository:** quan-ly-hoc-vu-sdh
+- **Organization:** DH24PM-Nhom01-CNM CNPM
+- **Repository:** quan-ly-hoc-vien-sdh
 
 ---
 
